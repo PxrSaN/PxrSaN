@@ -13,7 +13,7 @@ e ir aprendiendo cada día más sobre este mundo de la programacion </h3>
 
 
 <div id="badges" align="center">
-<a href=" http://wa.me/3002933963" target="_blank">
+<a href="http://wa.me/3002933963" target="_blank">
 <img src="https://img.shields.io/badge/Contact-WhatsApp-green" alt="WhatsApp Badge">
 </a>
 
